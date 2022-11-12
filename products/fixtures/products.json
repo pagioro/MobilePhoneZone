@@ -6,14 +6,20 @@
           "category":2,
           "sku":"sama03core32gbblack4g",
           "name":"A03 Core",
-          "colour":"Black",
-          "operating_system":"Android 12.0",
-          "network":"Vodafone",
-          "battery":"3700mAh",
-          "screen_size":"6.1 inch",
+          "colour":"Black / Bronze / Green",
+          "operating_system":"Android",
+          "network":"Vodafone / Eir / Three / Lycamobile / Gomo / Virgin",
+          "battery":"5000mAh",
+          "screen_size":"6.5 inches",
           "price":135.00,
           "image_url":"",
           "image":""
        }
     }
+
+
+
+
+
+    
 ]    
